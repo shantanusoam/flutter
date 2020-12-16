@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "774835648151",
+    "firebase_url": "https://quizapp-790c7.firebaseio.com",
+    "project_id": "quizapp-790c7",
+    "storage_bucket": "quizapp-790c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774835648151:android:f2c195ac88e30902361bd2",
+        "android_client_info": {
+          "package_name": "com.secretsofcosmos.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774835648151-dav9pp800og33v6bm7tm6uesjd1g48j7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.secretsofcosmos.quizapp",
+            "certificate_hash": "3b0fffae5b202603f68642d90f033a8e6932e753"
+          }
+        },
+        {
+          "client_id": "774835648151-l3vscv3q6hdt3j190qm7epebh2g05hv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5LDM4vVvaTgPhMHM8V8gU0QuwVKzvCOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774835648151-l3vscv3q6hdt3j190qm7epebh2g05hv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "230627594820",
+    "firebase_url": "https://dictionary-30d47.firebaseio.com",
+    "project_id": "dictionary-30d47",
+    "storage_bucket": "dictionary-30d47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230627594820:android:f0c6e6871972e4fd16e211",
+        "android_client_info": {
+          "package_name": "com.example.dictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230627594820-o65ahhrn4dkav20964p7chq2cj6nlvel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dictionary",
+            "certificate_hash": "6537323b7d13200c4d38553eb2bf23bfbe4e472a"
+          }
+        },
+        {
+          "client_id": "230627594820-j7319hhtj015tmj495q65ecqdopr7k5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk3kWdRXwDusTNUxUAMCClo0MRNiL5YJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230627594820-j7319hhtj015tmj495q65ecqdopr7k5j.apps.googleusercontent.com",
+              "client_type": 3,
+              "admob_app_id": "ca-app-pub-4590661625161952~1579293527"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
